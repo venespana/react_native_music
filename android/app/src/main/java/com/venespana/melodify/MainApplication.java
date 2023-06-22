@@ -1,4 +1,4 @@
-package com.react_native_music;
+package com.venespana.melodify;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
